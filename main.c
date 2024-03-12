@@ -3,4 +3,11 @@
          biggest();
          factorial();
         reverse();
+ pallindrome();
+ biggest3();
+ sumoftwo();
+ fibonacci();
+
+ 
+ 
  }
